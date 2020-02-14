@@ -8,8 +8,6 @@ private float resultado;
         
     }
 
-
-
     public float getNumero1 () {
         return numero1;
     }
