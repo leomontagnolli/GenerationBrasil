@@ -4,6 +4,11 @@ private float numero1;
 private float numero2;
 private float resultado;
 
+    public Calculadora () {
+        
+    }
+
+
 
     public float getNumero1 () {
         return numero1;
@@ -30,5 +35,7 @@ private float resultado;
         this.numero2 = n2;
         this.resultado = n1+n2;
     }
+
+
 
 }
